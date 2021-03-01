@@ -1,5 +1,7 @@
 // import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+
+import CartItem from './CartItem';
 
 function App() {
   return (
@@ -7,6 +9,7 @@ function App() {
       <h1>
         Cart
       </h1>
+      <CartItem />
     </div>
   );
 }
