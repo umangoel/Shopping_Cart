@@ -1,15 +1,15 @@
 // import logo from './logo.svg';
 // import './App.css';
 
-import CartItem from './CartItem';
+import Cart from './Cart';
 
 function App() {
   return (
     <div className="App">
-      <h1>
+      {/* <h1>
         Cart
-      </h1>
-      <CartItem />
+      </h1> */}
+      <Cart />
     </div>
   );
 }

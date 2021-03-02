@@ -30,3 +30,9 @@ code {
 .action-icons:hover {
   cursor: pointer;
 }
+
+
+.Cart-Item{
+  display: flex;
+  flex-direction: column;
+}
